@@ -1,10 +1,10 @@
 # codeforces practice ladders
 ## Table of contents
-  - [Codeforces Div. 2, A](#codeforces-div.2,a)
+  - [Codeforces Div. 2, A](#div.2,a)
   - [Codeforces Div. 2, B](#codeforces-div.2,-b)
   - [Codeforces Div. 2, C](#codeforces-div.-2,-c)
   - [Codeforces Div. 2, D](#codeforces-div.-2,-d)  
-## Codeforces Div.2,A
+## Div.2,A
 1. [Clothes](https://codeforces.com/contest/102/problem/A)  
 1. [Blackjack](https://codeforces.com/contest/104/problem/A)  
 1. [Card Game](https://codeforces.com/contest/106/problem/A)  
