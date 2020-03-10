@@ -1,10 +1,10 @@
 # codeforces practice ladders
 ## Table of contents
-  - [Codeforces Div. 2, A](#div-2-a)
-  - [Codeforces Div. 2, B](#div-2-b)
-  - [Codeforces Div. 2, C](#codeforces-div.-2,-c)
-  - [Codeforces Div. 2, D](#codeforces-div.-2,-d)  
-## Div 2 A
+  - [Codeforces Div. 2, A](#codeforces-div-2-a)
+  - [Codeforces Div. 2, B](#codeforces-div-2-b)
+  - [Codeforces Div. 2, C](#codeforces-div-2-c)
+  - [Codeforces Div. 2, D](#codeforces-div-2-d)  
+## Codeforces Div 2 A
 1. [Clothes](https://codeforces.com/contest/102/problem/A)  
 1. [Blackjack](https://codeforces.com/contest/104/problem/A)  
 1. [Card Game](https://codeforces.com/contest/106/problem/A)  
@@ -557,7 +557,7 @@
 1. [Two Rabbits](https://codeforces.com/contest/1304/problem/A)  
 1. [Two Regular Polygons](https://codeforces.com/contest/1312/problem/A)  
 
-## Div 2 B
+## Codeforces Div 2 B
 1. [Sum of Digits](https://codeforces.com/contest/102/problem/B)  
 1. [Testing Pants for Sadness](https://codeforces.com/contest/104/problem/B)  
 1. [Choosing Laptop](https://codeforces.com/contest/106/problem/B)  
@@ -1109,7 +1109,7 @@
 1. [Longest Palindrome](https://codeforces.com/contest/1304/problem/B)  
 1. [Bogosort](https://codeforces.com/contest/1312/problem/B)  
 
-## Codeforces Div. 2, C
+## Codeforces Div 2 C
 1. [Homework](https://codeforces.com/contest/102/problem/C)  
 1. [Cthulhu](https://codeforces.com/contest/104/problem/C)  
 1. [Buns](https://codeforces.com/contest/106/problem/C)  
@@ -1661,7 +1661,7 @@
 1. [Air Conditioner](https://codeforces.com/contest/1304/problem/C)  
 1. [Adding Powers](https://codeforces.com/contest/1312/problem/C)  
 
-## Codeforces Div. 2, D
+## Codeforces Div 2 D
 1. [Buses](https://codeforces.com/contest/102/problem/D)  
 1. [Russian Roulette](https://codeforces.com/contest/104/problem/D)  
 1. [Treasure Island](https://codeforces.com/contest/106/problem/D)  
