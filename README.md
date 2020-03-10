@@ -1,7 +1,7 @@
 # codeforces practice ladders
 ## Table of contents
   - [Codeforces Div. 2, A](#div.2,a)
-  - [Codeforces Div. 2, B](#codeforces-div.2,-b)
+  - [Codeforces Div. 2, B](#div.2,b)
   - [Codeforces Div. 2, C](#codeforces-div.-2,-c)
   - [Codeforces Div. 2, D](#codeforces-div.-2,-d)  
 ## Div.2,A
@@ -557,7 +557,7 @@
 1. [Two Rabbits](https://codeforces.com/contest/1304/problem/A)  
 1. [Two Regular Polygons](https://codeforces.com/contest/1312/problem/A)  
 
-## Codeforces Div. 2, B
+## Div.2,B
 1. [Sum of Digits](https://codeforces.com/contest/102/problem/B)  
 1. [Testing Pants for Sadness](https://codeforces.com/contest/104/problem/B)  
 1. [Choosing Laptop](https://codeforces.com/contest/106/problem/B)  
